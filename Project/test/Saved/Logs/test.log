@@ -641,3 +641,1102 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.07-12.51.39:788][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000497 seconds (updated 0 objects)
 [2021.03.07-12.51.52:813][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2021.03.07-12.52.39:500][ 23]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={167DF499-41A5-A4B8-3334-A18217405D55}
+[2021.03.07-12.53.30:194][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.54.07:123][552]LogSlate: Took 0.005321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.07-12.54.07:151][552]LogAssetEditorManager: Opening Asset editor for World /Game/HW_Actor/NewWorld.NewWorld
+[2021.03.07-12.54.07:177][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.03.07-12.54.11:433][552]LogSlate: Window 'Save Content' being destroyed
+[2021.03.07-12.54.11:514][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/NewWorld" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.07-12.54.11:540][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.07-12.54.11:567][552]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorld8BE67B954C86CC5D8295FAACD8CB31E8.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld.umap'
+[2021.03.07-12.54.11:707][552]LogFileHelpers: Saving map 'NewWorld' took 0.194
+[2021.03.07-12.54.11:711][552]Cmd: MAP LOAD FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.07-12.54.11:711][552]LightingResults: New page: Lighting Build
+[2021.03.07-12.54.11:712][552]LoadErrors: New page: Loading map: NewWorld.umap
+[2021.03.07-12.54.11:718][552]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-12.54.11:719][552]MapCheck: New page: Map Check
+[2021.03.07-12.54.11:719][552]LightingResults: New page: Lighting Build
+[2021.03.07-12.54.11:754][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.03.07-12.54.11:756][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.07-12.54.11:756][552]LogAIModule: Creating AISystem for world NewWorld
+[2021.03.07-12.54.11:783][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.03.07-12.54.11:806][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.07-12.54.11:806][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
+[2021.03.07-12.54.11:807][552]LogFileHelpers: Loading map 'NewWorld' took 0.099
+[2021.03.07-12.54.14:291][832]LogAssetEditorManager: Opening Asset editor for World /Game/HW_Actor/NewWorld.NewWorld
+[2021.03.07-12.54.14:316][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.03.07-12.54.14:317][832]Cmd: MAP LOAD FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.07-12.54.14:317][832]LightingResults: New page: Lighting Build
+[2021.03.07-12.54.14:317][832]LoadErrors: New page: Loading map: NewWorld.umap
+[2021.03.07-12.54.14:317][832]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-12.54.14:317][832]MapCheck: New page: Map Check
+[2021.03.07-12.54.14:317][832]LightingResults: New page: Lighting Build
+[2021.03.07-12.54.14:343][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.03.07-12.54.14:346][832]LogAIModule: Creating AISystem for world NewWorld
+[2021.03.07-12.54.14:346][832]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.07-12.54.14:371][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.03.07-12.54.14:389][832]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.07-12.54.14:390][832]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2021.03.07-12.54.14:390][832]LogFileHelpers: Loading map 'NewWorld' took 0.074
+[2021.03.07-12.54.23:272][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.54.26:226][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.54.32:793][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.54.38:997][690]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.03.07-12.54.41:903][ 26]LogSlate: Took 0.005102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.07-12.54.43:726][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.54.43:848][255]MapCheck: New page: Map Check
+[2021.03.07-12.54.43:861][255]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.07-12.54.43:862][255]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.07-12.54.43:869][255]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=false
+[2021.03.07-12.54.43:900][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.03.07-12.54.43:909][255]LightingResults: New page: Lighting Build - 7 марта 2021 г., 18:54:43
+[2021.03.07-12.54.44:008][255]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.07-12.54.44:265][255]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.07-12.54.44:278][255]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.07-12.54.45:296][255]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.07-12.54.45:296][255]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19232
+[2021.03.07-12.54.47:808][255]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.03.07-12.54.47:809][255]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.07-12.54.47:809][255]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.07-12.54.47:809][255]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.07-12.54.47:809][255]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.07-12.54.47:809][255]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.07-12.54.47:933][255]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.03.07-12.54.47:933][255]MapCheck: New page: NewWorld - 7 марта 2021 г., 18:54:47
+[2021.03.07-12.54.47:934][255]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,256ms to complete.
+[2021.03.07-12.54.47:936][255]LogEditorBuildUtils: Build time 0:04
+[2021.03.07-12.54.47:978][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.07-12.54.49:076][318]Job is a success!
+[2021.03.07-12.54.49:142][319]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2021.03.07-12.54.49:142][319]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.07-12.54.49:142][319]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2021.03.07-12.54.49:143][319]LogVolumetricLightmapImport:      Bricks at Level
+[2021.03.07-12.54.49:143][319]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.03.07-12.54.49:143][319]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.03.07-12.54.49:143][319]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.03.07-12.54.49:174][319]Lightmass on DESKTOP-ADL0U9V: 656 ms total, 152 ms importing, 23 ms setup, 20 ms photons, 375 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 4.11 sec total, 0 ms processing.
+[2021.03.07-12.54.49:202][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.07-12.54.49:211][319]LogStaticLightingSystem: Illumination: 5.28 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.03.07-12.54.49:211][319]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.03.07-12.54.49:212][319]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.03.07-12.54.49:819][319]DumpUnbuiltLightIteractions
+[2021.03.07-12.54.49:819][319]Lights with unbuilt interactions: 0
+[2021.03.07-12.54.49:819][319]
+[2021.03.07-12.54.49:819][319]Primitives with unbuilt interactions: 0
+[2021.03.07-12.54.49:853][320]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.07-12.54.49:854][320]MapCheck: New page: NewWorld - 7 марта 2021 г., 18:54:49
+[2021.03.07-12.54.49:854][320]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,265ms to complete.
+[2021.03.07-12.55.43:576][734]Cmd: DELETE
+[2021.03.07-12.55.43:576][734]Cmd: ACTOR DELETE
+[2021.03.07-12.55.43:591][734]LogEditorActor: Deleted Actor: RectLight
+[2021.03.07-12.55.43:617][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.03.07-12.55.43:617][734]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.03.07-12.55.46:062][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.56.11:299][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.56.19:537][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.56.19:611][995]MapCheck: New page: Map Check
+[2021.03.07-12.56.19:626][995]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.07-12.56.19:626][995]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.07-12.56.19:628][995]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=false
+[2021.03.07-12.56.19:653][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.03.07-12.56.19:661][995]LightingResults: New page: Lighting Build - 7 марта 2021 г., 18:56:19
+[2021.03.07-12.56.19:670][995]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.07-12.56.19:675][995]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.07-12.56.19:675][995]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.07-12.56.19:676][995]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.07-12.56.19:676][995]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19232
+[2021.03.07-12.56.24:274][995]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.03.07-12.56.24:274][995]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.07-12.56.24:274][995]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.07-12.56.24:274][995]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.07-12.56.24:274][995]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.07-12.56.24:274][995]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.07-12.56.24:365][995]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.03.07-12.56.24:365][995]MapCheck: New page: NewWorld - 7 марта 2021 г., 18:56:24
+[2021.03.07-12.56.24:366][995]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,274ms to complete.
+[2021.03.07-12.56.24:367][995]LogEditorBuildUtils: Build time 0:04
+[2021.03.07-12.56.24:404][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.07-12.56.25:204][ 40]Job is a success!
+[2021.03.07-12.56.25:242][ 41]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.03.07-12.56.25:242][ 41]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.07-12.56.25:242][ 41]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2021.03.07-12.56.25:242][ 41]LogVolumetricLightmapImport:      Bricks at Level
+[2021.03.07-12.56.25:242][ 41]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.03.07-12.56.25:242][ 41]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.03.07-12.56.25:242][ 41]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.03.07-12.56.25:282][ 41]Lightmass on DESKTOP-ADL0U9V: 472 ms total, 130 ms importing, 18 ms setup, 18 ms photons, 251 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 2.76 sec total, 0 ms processing.
+[2021.03.07-12.56.25:282][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.07-12.56.25:289][ 41]LogStaticLightingSystem: Illumination: 5.61 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.03.07-12.56.25:289][ 41]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.03.07-12.56.25:289][ 41]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.03.07-12.56.26:285][ 41]DumpUnbuiltLightIteractions
+[2021.03.07-12.56.26:285][ 41]Lights with unbuilt interactions: 0
+[2021.03.07-12.56.26:285][ 41]
+[2021.03.07-12.56.26:285][ 41]Primitives with unbuilt interactions: 0
+[2021.03.07-12.56.26:355][ 42]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.07-12.56.26:355][ 42]MapCheck: New page: NewWorld - 7 марта 2021 г., 18:56:26
+[2021.03.07-12.56.26:355][ 42]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,243ms to complete.
+[2021.03.07-12.56.36:127][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.56.41:375][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/NewWorld" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.07-12.56.41:404][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.07-12.56.41:510][794]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorld44E0C86B47D686B39E9B9DA5056B2999.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld.umap'
+[2021.03.07-12.56.41:606][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/NewWorld_BuiltData" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld_BuiltData.uasset" SILENT=true
+[2021.03.07-12.56.41:612][794]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorld_BuiltData574BEB044E6927398A367BA4C487D4BB.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/NewWorld_BuiltData.uasset'
+[2021.03.07-12.56.41:711][794]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.03.07-12.56.41:711][794]SourceControl: Error: Project/test/Content/HW_Actor/NewWorld_BuiltData.uasset
+[2021.03.07-12.56.41:711][794]SourceControl: Error: hint: Use -f if you really want to add them.
+[2021.03.07-12.56.41:711][794]SourceControl: Error: hint: Turn this message off by running
+[2021.03.07-12.56.41:711][794]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2021.03.07-12.56.52:729][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.58.04:601][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.03.07-12.58.04:601][425]LogMetaData: Removing '/Game/HW_Actor/Level/NewWorld.NewWorld_C' ref from Metadata '/Game/HW_Actor/NewWorld.PackageMetaData'
+[2021.03.07-12.58.04:601][425]LogMetaData: Removing '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld.EventGraph.K2Node_Event_0' ref from Metadata '/Game/HW_Actor/NewWorld.PackageMetaData'
+[2021.03.07-12.58.04:601][425]LogMetaData: Removing '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld.EventGraph.K2Node_Event_1' ref from Metadata '/Game/HW_Actor/NewWorld.PackageMetaData'
+[2021.03.07-12.58.04:601][425]LogMetaData: Removing '/Game/HW_Actor/Level/NewWorld.SKEL_NewWorld_C' ref from Metadata '/Game/HW_Actor/NewWorld.PackageMetaData'
+[2021.03.07-12.58.04:619][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/Level/NewWorld_BuiltData" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld_BuiltData.uasset" SILENT=true
+[2021.03.07-12.58.04:626][425]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorld_BuiltDataBA2815A3463A885EDAA5DF8D04774E38.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld_BuiltData.uasset'
+[2021.03.07-12.58.04:727][425]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.03.07-12.58.04:727][425]SourceControl: Error: Project/test/Content/HW_Actor/Level/NewWorld_BuiltData.uasset
+[2021.03.07-12.58.04:727][425]SourceControl: Error: hint: Use -f if you really want to add them.
+[2021.03.07-12.58.04:727][425]SourceControl: Error: hint: Turn this message off by running
+[2021.03.07-12.58.04:727][425]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2021.03.07-12.58.04:732][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/Level/NewWorld" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.07-12.58.04:757][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.03.07-12.58.04:836][425]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorldBA011277482EF493B7F674ABFE0655B4.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap'
+[2021.03.07-12.58.05:001][425]LogFileHelpers: Saving map 'NewWorld' took 0.269
+[2021.03.07-12.58.05:425][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.03.07-12.58.05:451][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.03.07-12.58.05:480][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.03.07-12.58.05:502][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.03.07-12.58.05:614][425]SourceControl: rm 'Project/test/Content/HW_Actor/NewWorld.umap'
+[2021.03.07-12.58.48:445][233]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.BP_actor_1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.SKEL_BP_actor_1_C:DefaultSceneRoot' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.SKEL_BP_actor_1_C:UserConstructionScript' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.SKEL_BP_actor_1_C' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.BP_actor_1_C:DefaultSceneRoot' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.BP_actor_1_C' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.BP_actor_1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.BP_actor_1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:923][266]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_1.BP_actor_1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HW_Actor/BP_actor_1/BP_actor_1.PackageMetaData'
+[2021.03.07-12.59.22:938][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/BP_actor/BP_actor_1" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_1.uasset" SILENT=true
+[2021.03.07-12.59.22:950][266]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/BP_actor_1117713AA4881A4A626A1A19003F3A645.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_1.uasset'
+[2021.03.07-12.59.23:238][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.03.07-12.59.23:265][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.03.07-12.59.23:290][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.03.07-12.59.27:956][809]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HW_Actor/BP_actor/BP_actor_1.BP_actor_1
+[2021.03.07-12.59.28:279][809]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2021.03.07-12.59.35:853][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.59.39:964][ 64]LogRenderer: Reallocating scene render targets to support 1288x768 Format 10 NumSamples 1 (Frame:1038).
+[2021.03.07-12.59.40:613][141]LogSlate: Window 'BP_actor_1' being destroyed
+[2021.03.07-13.00.06:135][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.00.06:209][158]BlueprintLog: New page: Compile BP_actor_1
+[2021.03.07-13.00.06:386][158]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.03.07-13.01.00:946][669]BlueprintLog: New page: Compile BP_actor_1
+[2021.03.07-13.01.01:097][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.03.07-13.01.25:104][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.01.25:195][471]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-13.01.25:282][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.01.25:283][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-13.01.25:284][471]PIE: New page: PIE session: NewWorld (7 марта 2021 г., 19:01:25)
+[2021.03.07-13.01.25:289][471]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.07-13.01.25:291][471]LogPlayLevel: Creating play world package: /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.01.25:293][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001895s)
+[2021.03.07-13.01.25:295][471]LogAIModule: Creating AISystem for world NewWorld
+[2021.03.07-13.01.25:295][471]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2021.03.07-13.01.25:295][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW_Actor/Level/NewWorld.NewWorld to /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld (0.003925s)
+[2021.03.07-13.01.25:327][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.03.07-13.01.25:383][471]LogInit: XAudio2 using 'Наушники (HD 350BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.07-13.01.25:396][471]LogInit: FAudioDevice initialized.
+[2021.03.07-13.01.25:415][471]LogLoad: Game class is 'GameModeBase'
+[2021.03.07-13.01.25:423][471]LogWorld: Bringing World /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2021.03.07-16.01.25
+[2021.03.07-13.01.25:426][471]LogWorld: Bringing up level for play took: 0.003183
+[2021.03.07-13.01.25:426][471]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.03.07-13.01.25:440][471]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.03.07-13.01.25:445][471]PIE: Play in editor start time for /Game/HW_Actor/Level/UEDPIE_0_NewWorld -0,705
+[2021.03.07-13.01.25:445][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.01.33:304][384]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.01.33:305][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.01.33:305][384]LogWorld: BeginTearingDown for /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.01.33:305][384]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.01.33:310][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-13.01.33:310][384]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.01.33:351][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.01.33:372][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.03.07-13.01.33:397][387]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.03.07-13.01.38:972][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.01.42:902][419]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.07-13.02.12:982][984]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HW_Actor/BP_actor/NewBlueprint.NewBlueprint
+[2021.03.07-13.02.41:679][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.02.49:535][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.03.20:304][953]BlueprintLog: New page: Compile NewBlueprint
+[2021.03.07-13.03.20:581][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.03.07-13.03.37:378][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.03.37:478][911]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-13.03.37:489][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.03.37:489][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-13.03.37:489][911]PIE: New page: PIE session: NewWorld (7 марта 2021 г., 19:03:37)
+[2021.03.07-13.03.37:490][911]LogPlayLevel: Creating play world package: /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.03.37:491][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001618s)
+[2021.03.07-13.03.37:492][911]LogAIModule: Creating AISystem for world NewWorld
+[2021.03.07-13.03.37:492][911]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.03.07-13.03.37:492][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW_Actor/Level/NewWorld.NewWorld to /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld (0.002665s)
+[2021.03.07-13.03.37:531][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.03.07-13.03.37:587][911]LogInit: XAudio2 using 'Наушники (HD 350BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.07-13.03.37:600][911]LogInit: FAudioDevice initialized.
+[2021.03.07-13.03.37:609][911]LogLoad: Game class is 'GameModeBase'
+[2021.03.07-13.03.37:610][911]LogWorld: Bringing World /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2021.03.07-16.03.37
+[2021.03.07-13.03.37:610][911]LogWorld: Bringing up level for play took: 0.000498
+[2021.03.07-13.03.37:611][911]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.03.07-13.03.37:612][911]PIE: Play in editor start time for /Game/HW_Actor/Level/UEDPIE_0_NewWorld -0,538
+[2021.03.07-13.03.37:612][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.03.45:693][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.03.45:694][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.03.45:694][879]LogWorld: BeginTearingDown for /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.03.45:694][879]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.03.45:701][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-13.03.45:702][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.03.45:742][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.03.45:746][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.03.07-13.03.45:796][885]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.07-13.04.13:260][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.03.07-13.04.13:268][ 91]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_2.BP_actor_2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/HW_Actor/BP_actor/NewBlueprint.PackageMetaData'
+[2021.03.07-13.04.13:268][ 91]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_2.SKEL_BP_actor_2_C' ref from Metadata '/Game/HW_Actor/BP_actor/NewBlueprint.PackageMetaData'
+[2021.03.07-13.04.13:268][ 91]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_2.BP_actor_2_C' ref from Metadata '/Game/HW_Actor/BP_actor/NewBlueprint.PackageMetaData'
+[2021.03.07-13.04.13:268][ 91]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_2.BP_actor_2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/HW_Actor/BP_actor/NewBlueprint.PackageMetaData'
+[2021.03.07-13.04.13:268][ 91]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_2.BP_actor_2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/HW_Actor/BP_actor/NewBlueprint.PackageMetaData'
+[2021.03.07-13.04.13:268][ 91]LogMetaData: Removing '/Game/HW_Actor/BP_actor/BP_actor_2.BP_actor_2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/HW_Actor/BP_actor/NewBlueprint.PackageMetaData'
+[2021.03.07-13.04.13:369][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/BP_actor/BP_actor_2" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_2.uasset" SILENT=true
+[2021.03.07-13.04.13:388][ 91]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/BP_actor_2D20D516D49B2379C32B3F3A8D8FFBF36.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_2.uasset'
+[2021.03.07-13.04.13:863][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.03.07-13.04.13:895][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.03.07-13.04.13:929][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.07-13.04.33:650][431]LogEditorViewport: Clicking on Actor (LMB): BP_actor_2_C (NewBlueprint)
+[2021.03.07-13.04.34:560][539]Cmd: DELETE
+[2021.03.07-13.04.34:560][539]Cmd: ACTOR DELETE
+[2021.03.07-13.04.34:561][539]LogEditorActor: Deleted Actor: BP_actor_2_C
+[2021.03.07-13.04.34:594][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.03.07-13.04.34:594][539]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.03.07-13.04.36:036][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.05.04:291][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.05.10:072][647]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-13.05.10:084][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.05.10:085][647]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.03.07-13.05.10:085][647]LogPlayLevel: [PlayLevel] Compiling BP_actor_1 before play...
+[2021.03.07-13.05.10:278][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.03.07-13.05.10:278][647]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (1 blueprints)
+[2021.03.07-13.05.10:278][647]PIE: New page: PIE session: NewWorld (7 марта 2021 г., 19:05:10)
+[2021.03.07-13.05.10:278][647]LogPlayLevel: Creating play world package: /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.05.10:280][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001416s)
+[2021.03.07-13.05.10:280][647]LogAIModule: Creating AISystem for world NewWorld
+[2021.03.07-13.05.10:280][647]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2021.03.07-13.05.10:280][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW_Actor/Level/NewWorld.NewWorld to /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld (0.002316s)
+[2021.03.07-13.05.10:316][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.03.07-13.05.10:369][647]LogInit: XAudio2 using 'Наушники (HD 350BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.07-13.05.10:381][647]LogInit: FAudioDevice initialized.
+[2021.03.07-13.05.10:389][647]LogLoad: Game class is 'GameModeBase'
+[2021.03.07-13.05.10:390][647]LogWorld: Bringing World /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2021.03.07-16.05.10
+[2021.03.07-13.05.10:390][647]LogWorld: Bringing up level for play took: 0.000439
+[2021.03.07-13.05.10:390][647]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.07-13.05.10:392][647]PIE: Play in editor start time for /Game/HW_Actor/Level/UEDPIE_0_NewWorld 0,242
+[2021.03.07-13.05.10:392][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.05.17:809][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.05.17:809][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.05.17:809][535]LogWorld: BeginTearingDown for /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.05.17:810][535]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.05.17:817][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-13.05.17:817][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.05.17:856][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.05.17:859][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.03.07-13.05.17:910][541]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.07-13.06.34:977][664]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.03.07-13.06.55:169][ 68]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HW_Actor/BP_actor/BP_actor_3.BP_actor_3
+[2021.03.07-13.07.06:585][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-13.07.15:077][402]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:078][402]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:086][403]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:086][403]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:086][403]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:094][404]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:094][404]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:094][404]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:102][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:103][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:103][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:111][406]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:111][406]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:111][406]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:119][407]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:119][407]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:119][407]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:127][408]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:127][408]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:128][408]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:136][409]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:136][409]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:136][409]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:144][410]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:144][410]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:144][410]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:152][411]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:153][411]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:153][411]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:160][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:161][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:161][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:169][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:169][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:169][413]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:177][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:178][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:178][414]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:186][415]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:186][415]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:186][415]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:193][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:194][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:194][416]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:202][417]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:202][417]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:202][417]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:211][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:211][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:211][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:219][419]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:219][419]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:219][419]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:227][420]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:227][420]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:228][420]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:236][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:236][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:236][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:244][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:244][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:244][422]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:252][423]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:252][423]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:252][423]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:260][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:261][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:261][424]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:269][425]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:269][425]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:269][425]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:277][426]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:277][426]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:277][426]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:285][427]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:286][427]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:286][427]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:294][428]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:294][428]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:294][428]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:302][429]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:302][429]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:302][429]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:310][430]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:311][430]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:311][430]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:319][431]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:319][431]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:319][431]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:327][432]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:327][432]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:328][432]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:335][433]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:335][433]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:335][433]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:344][434]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:344][434]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:344][434]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:352][435]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:352][435]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:352][435]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:361][436]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:361][436]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:361][436]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:369][437]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:369][437]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:369][437]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:377][438]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:377][438]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:377][438]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:385][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:386][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:386][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:394][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:394][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:394][440]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:402][441]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:402][441]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:402][441]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:411][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:411][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:411][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:419][443]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:419][443]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:419][443]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:427][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:427][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:428][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:436][445]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:436][445]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:436][445]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:444][446]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:444][446]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:444][446]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:452][447]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:452][447]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:452][447]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:461][448]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:461][448]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:461][448]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:469][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:469][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:469][449]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:477][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:477][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:477][450]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:485][451]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:485][451]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:485][451]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:494][452]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:494][452]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:494][452]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:502][453]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:503][453]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:503][453]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:510][454]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:511][454]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:511][454]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:518][455]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:519][455]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:519][455]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:527][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:528][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:528][456]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:536][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:536][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:536][457]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:544][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:544][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:544][458]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:552][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:552][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:552][459]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:560][460]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:561][460]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:561][460]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:569][461]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:569][461]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:569][461]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:577][462]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:577][462]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:577][462]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:585][463]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:586][463]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:586][463]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:594][464]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:594][464]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:594][464]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:602][465]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:602][465]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:602][465]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:611][466]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:611][466]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:611][466]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:619][467]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:619][467]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:619][467]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:627][468]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:628][468]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:628][468]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:636][469]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:636][469]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:636][469]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:644][470]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:644][470]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:644][470]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:652][471]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:653][471]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:653][471]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:661][472]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:661][472]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:661][472]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:669][473]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:669][473]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:669][473]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:677][474]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:677][474]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:677][474]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:685][475]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:685][475]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:685][475]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:694][476]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:694][476]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:694][476]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:702][477]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:702][477]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:702][477]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:711][478]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:711][478]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:711][478]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:719][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:719][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:719][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:727][480]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:727][480]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:727][480]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:735][481]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:736][481]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:736][481]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:744][482]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:744][482]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:744][482]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:752][483]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:752][483]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:752][483]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:760][484]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:761][484]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:761][484]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:769][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:769][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:769][485]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:777][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:777][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:777][486]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:786][487]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:786][487]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:786][487]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:794][488]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:794][488]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:794][488]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:802][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:803][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:803][489]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:811][490]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.15:811][490]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_9:PersistentLevel.BP_actor_3_C_0.rt' 
+[2021.03.07-13.07.17:363][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.07.33:481][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.07.55:709][238]BlueprintLog: New page: Compile BP_actor_3
+[2021.03.07-13.07.55:911][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.03.07-13.07.57:606][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/BP_actor/BP_actor_3" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_3.uasset" SILENT=true
+[2021.03.07-13.07.57:625][429]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/BP_actor_39EB8A61B4FA9DD52B45701AD4566D55B.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_3.uasset'
+[2021.03.07-13.07.59:132][594]BlueprintLog: New page: Compile BP_actor_3
+[2021.03.07-13.07.59:316][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.03.07-13.08.29:948][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.08.34:034][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/Level/NewWorld" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.07-13.08.34:076][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.03.07-13.08.34:251][609]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorldC2CFE45A4B5142CE8042C1A3933DED4D.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap'
+[2021.03.07-13.08.34:334][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/Level/NewWorld_BuiltData" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld_BuiltData.uasset" SILENT=true
+[2021.03.07-13.08.34:347][609]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorld_BuiltData83B449A74628CC0A63FBA8A5A17F3596.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld_BuiltData.uasset'
+[2021.03.07-13.08.36:740][890]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-13.08.36:750][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.08.36:750][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-13.08.36:750][890]PIE: New page: PIE session: NewWorld (7 марта 2021 г., 19:08:36)
+[2021.03.07-13.08.36:750][890]LogPlayLevel: Creating play world package: /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.08.36:752][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001450s)
+[2021.03.07-13.08.36:752][890]LogAIModule: Creating AISystem for world NewWorld
+[2021.03.07-13.08.36:753][890]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2021.03.07-13.08.36:753][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW_Actor/Level/NewWorld.NewWorld to /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld (0.002372s)
+[2021.03.07-13.08.36:788][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.03.07-13.08.36:840][890]LogInit: XAudio2 using 'Наушники (HD 350BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.07-13.08.36:852][890]LogInit: FAudioDevice initialized.
+[2021.03.07-13.08.36:863][890]LogLoad: Game class is 'GameModeBase'
+[2021.03.07-13.08.36:864][890]LogWorld: Bringing World /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2021.03.07-16.08.36
+[2021.03.07-13.08.36:864][890]LogWorld: Bringing up level for play took: 0.000537
+[2021.03.07-13.08.36:864][890]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.03.07-13.08.36:866][890]PIE: Play in editor start time for /Game/HW_Actor/Level/UEDPIE_0_NewWorld 0,716
+[2021.03.07-13.08.36:866][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.08.56:619][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.08.56:620][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.08.56:620][250]LogWorld: BeginTearingDown for /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.08.56:620][250]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.08.56:634][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-13.08.56:635][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.08.56:670][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.08.56:673][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.07-13.08.56:727][255]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.03.07-13.09.03:581][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.09.03:664][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.07-13.09.03:674][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.09.03:674][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.07-13.09.03:674][ 79]PIE: New page: PIE session: NewWorld (7 марта 2021 г., 19:09:03)
+[2021.03.07-13.09.03:674][ 79]LogPlayLevel: Creating play world package: /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.09.03:676][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001443s)
+[2021.03.07-13.09.03:676][ 79]LogAIModule: Creating AISystem for world NewWorld
+[2021.03.07-13.09.03:676][ 79]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2021.03.07-13.09.03:676][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW_Actor/Level/NewWorld.NewWorld to /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld (0.002305s)
+[2021.03.07-13.09.03:709][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.03.07-13.09.03:761][ 79]LogInit: XAudio2 using 'Наушники (HD 350BT Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2021.03.07-13.09.03:774][ 79]LogInit: FAudioDevice initialized.
+[2021.03.07-13.09.03:779][ 79]LogLoad: Game class is 'GameModeBase'
+[2021.03.07-13.09.03:780][ 79]LogWorld: Bringing World /Game/HW_Actor/Level/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2021.03.07-16.09.03
+[2021.03.07-13.09.03:780][ 79]LogWorld: Bringing up level for play took: 0.000542
+[2021.03.07-13.09.03:780][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.03.07-13.09.03:781][ 79]PIE: Play in editor start time for /Game/HW_Actor/Level/UEDPIE_0_NewWorld -0,369
+[2021.03.07-13.09.03:782][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.09.05:870][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.09.05:870][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.09.05:870][328]LogWorld: BeginTearingDown for /Game/HW_Actor/Level/UEDPIE_0_NewWorld
+[2021.03.07-13.09.05:870][328]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.09.05:883][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.07-13.09.05:883][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld' with GeneratedClass '/Game/HW_Actor/Level/NewWorld.NewWorld_C' with ClassGeneratedBy '/Game/HW_Actor/Level/NewWorld.NewWorld:PersistentLevel.NewWorld'
+[2021.03.07-13.09.05:922][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.07-13.09.05:925][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.03.07-13.09.05:975][334]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.03.07-13.09.06:801][433]MapCheck: New page: Map Check
+[2021.03.07-13.09.06:811][433]Cmd: MAP REBUILD ALLVISIBLE
+[2021.03.07-13.09.06:811][433]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.03.07-13.09.06:883][433]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=false
+[2021.03.07-13.09.06:925][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.03.07-13.09.06:941][433]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.03.07-13.09.07:499][433]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.03.07-13.09.07:499][433]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.03.07-13.09.07:499][433]TextureStreamingBuild: Display: Compiling optional shaders took 0.567 seconds.
+[2021.03.07-13.09.07:501][433]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2021.03.07-13.09.07:512][433]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2021.03.07-13.09.07:548][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.07-13.09.07:548][433]LightingResults: New page: Lighting Build - 7 марта 2021 г., 19:09:07
+[2021.03.07-13.09.07:553][433]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.03.07-13.09.07:556][433]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.03.07-13.09.07:556][433]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.03.07-13.09.07:557][433]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.03.07-13.09.07:557][433]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19232
+[2021.03.07-13.09.12:062][433]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.03.07-13.09.12:062][433]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.03.07-13.09.12:062][433]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.03.07-13.09.12:062][433]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.03.07-13.09.12:062][433]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.03.07-13.09.12:062][433]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.03.07-13.09.12:159][433]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.03.07-13.09.12:159][433]MapCheck: New page: NewWorld - 7 марта 2021 г., 19:09:12
+[2021.03.07-13.09.12:159][433]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,285ms to complete.
+[2021.03.07-13.09.12:161][433]LogEditorBuildUtils: Build time 0:05
+[2021.03.07-13.09.12:212][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.03.07-13.09.13:036][480]Job is a success!
+[2021.03.07-13.09.13:077][482]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2021.03.07-13.09.13:077][482]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.03.07-13.09.13:077][482]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2021.03.07-13.09.13:077][482]LogVolumetricLightmapImport:      Bricks at Level
+[2021.03.07-13.09.13:077][482]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2021.03.07-13.09.13:077][482]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2021.03.07-13.09.13:077][482]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.03.07-13.09.13:092][482]Lightmass on DESKTOP-ADL0U9V: 484 ms total, 147 ms importing, 23 ms setup, 20 ms photons, 249 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 2.73 sec total, 0 ms processing.
+[2021.03.07-13.09.13:120][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.07-13.09.13:127][482]LogStaticLightingSystem: Illumination: 5.56 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.03.07-13.09.13:127][482]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.03.07-13.09.13:127][482]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.03.07-13.09.14:075][482]DumpUnbuiltLightIteractions
+[2021.03.07-13.09.14:075][482]Lights with unbuilt interactions: 0
+[2021.03.07-13.09.14:075][482]
+[2021.03.07-13.09.14:075][482]Primitives with unbuilt interactions: 0
+[2021.03.07-13.09.14:124][483]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.03.07-13.09.14:125][483]MapCheck: New page: NewWorld - 7 марта 2021 г., 19:09:14
+[2021.03.07-13.09.14:125][483]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,29ms to complete.
+[2021.03.07-13.09.22:662][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.03.07-13.09.24:473][702]SourceControl: fatal: D:/0EPIC/UE_4_f/UE_4.23/Engine/Content: 'D:/0EPIC/UE_4_f/UE_4.23/Engine/Content' is outside repository at 'C:/Users/timof/Documents/GitHub/HW_UE4'
+[2021.03.07-13.09.24:565][702]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.09.27:715][702]LogSlate: Window 'Save Content' being destroyed
+[2021.03.07-13.09.27:723][702]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.09.27:836][702]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.09.27:868][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/BP_actor/BP_actor_1" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_1.uasset" SILENT=true
+[2021.03.07-13.09.27:892][702]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/BP_actor_18330F90E40961581E6F727AF56DE2F5A.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/BP_actor/BP_actor_1.uasset'
+[2021.03.07-13.09.27:897][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/Level/NewWorld" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.07-13.09.27:934][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.03.07-13.09.28:105][702]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorld085BFBB347069C62B07B8188C14477AE.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap'
+[2021.03.07-13.09.28:127][702]LogFileHelpers: Saving map 'NewWorld' took 0.231
+[2021.03.07-13.09.28:141][702]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.09.47:884][702]LogSlate: Window 'Submit Files' being destroyed
+[2021.03.07-13.09.47:961][702]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.09.48:076][702]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.09.48:251][702]LogSourceControl: commit successful: [homework_3 c00add4] HW_Actor
+[2021.03.07-13.09.48:343][702]SourceControl: [homework_3 c00add4] HW_Actor
+[2021.03.07-13.09.48:343][702]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2021.03.07-13.09.48:343][702]SourceControl:  create mode 100644 Project/test/Content/HW_Actor/BP_actor/BP_actor_1.uasset
+[2021.03.07-13.09.48:343][702]SourceControl:  create mode 100644 Project/test/Content/HW_Actor/BP_actor/BP_actor_2.uasset
+[2021.03.07-13.09.48:343][702]SourceControl:  create mode 100644 Project/test/Content/HW_Actor/BP_actor/BP_actor_3.uasset
+[2021.03.07-13.09.48:343][702]SourceControl:  create mode 100644 Project/test/Content/HW_Actor/Level/NewWorld.umap
+[2021.03.07-13.09.48:347][702]SourceControl: Commited [homework_3 c00add4] HW_Actor.
+[2021.03.07-13.09.56:799][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.09.59:301][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-13.10.50:566][155]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.07-13.10.50:566][155]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.07-13.10.53:327][455]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.10.53:396][455]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.07-13.10.53:401][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/Level/NewWorld" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.07-13.10.53:438][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.03.07-13.10.53:604][455]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorldCFEFCBEF445AE1B7BE8FAA973B5D5F32.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld.umap'
+[2021.03.07-13.10.53:691][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_Actor/Level/NewWorld_BuiltData" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld_BuiltData.uasset" SILENT=true
+[2021.03.07-13.10.53:698][455]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/NewWorld_BuiltData5CC3FBFD4603BDB669913E990D6B7514.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_Actor/Level/NewWorld_BuiltData.uasset'
+[2021.03.07-13.10.59:142][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.03.07-13.10.59:209][ 91]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.10.59:244][ 91]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.07-13.10.59:244][ 91]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.10.59:276][ 91]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.07-13.10.59:276][ 91]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.10.59:303][ 91]LogSlate: Window 'test - Unreal Editor' being destroyed
+[2021.03.07-13.10.59:437][ 92]Cmd: QUIT_EDITOR
+[2021.03.07-13.11.00:276][ 92]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.07-13.11.00:288][ 92]LogExit: Preparing to exit.
+[2021.03.07-13.11.01:240][ 92]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:243][ 92]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:246][ 92]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:250][ 92]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:253][ 92]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:256][ 92]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:260][ 92]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:264][ 92]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:305][ 92]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.07-13.11.01:321][ 92]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.07-13.11.01:321][ 92]LogExit: Editor shut down
+[2021.03.07-13.11.01:321][ 92]LogExit: Transaction tracking system shut down
+[2021.03.07-13.11.01:725][ 92]LogExit: Object subsystem successfully closed.
+[2021.03.07-13.11.01:761][ 92]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.03.07-13.11.01:806][ 92]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (676)
+[2021.03.07-13.11.01:806][ 92]LogModuleManager: Shutting down and abandoning module Voice (674)
+[2021.03.07-13.11.01:806][ 92]LogModuleManager: Shutting down and abandoning module BlueprintGraph (672)
+[2021.03.07-13.11.01:806][ 92]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (670)
+[2021.03.07-13.11.01:807][ 92]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2021.03.07-13.11.01:807][ 92]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2021.03.07-13.11.01:807][ 92]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2021.03.07-13.11.01:808][ 92]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2021.03.07-13.11.01:808][ 92]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2021.03.07-13.11.01:808][ 92]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2021.03.07-13.11.01:808][ 92]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2021.03.07-13.11.01:809][ 92]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2021.03.07-13.11.01:809][ 92]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2021.03.07-13.11.01:810][ 92]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2021.03.07-13.11.01:812][ 92]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2021.03.07-13.11.01:812][ 92]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2021.03.07-13.11.01:812][ 92]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2021.03.07-13.11.01:812][ 92]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2021.03.07-13.11.01:812][ 92]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2021.03.07-13.11.01:812][ 92]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2021.03.07-13.11.01:812][ 92]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2021.03.07-13.11.01:813][ 92]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2021.03.07-13.11.01:813][ 92]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2021.03.07-13.11.01:813][ 92]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2021.03.07-13.11.01:813][ 92]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2021.03.07-13.11.01:814][ 92]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2021.03.07-13.11.01:814][ 92]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2021.03.07-13.11.01:817][ 92]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2021.03.07-13.11.01:817][ 92]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2021.03.07-13.11.01:817][ 92]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2021.03.07-13.11.01:818][ 92]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2021.03.07-13.11.01:818][ 92]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2021.03.07-13.11.01:818][ 92]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2021.03.07-13.11.01:818][ 92]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2021.03.07-13.11.01:818][ 92]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2021.03.07-13.11.01:818][ 92]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2021.03.07-13.11.01:819][ 92]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2021.03.07-13.11.01:820][ 92]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2021.03.07-13.11.01:821][ 92]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2021.03.07-13.11.01:821][ 92]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2021.03.07-13.11.01:821][ 92]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2021.03.07-13.11.01:821][ 92]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2021.03.07-13.11.01:821][ 92]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2021.03.07-13.11.01:822][ 92]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2021.03.07-13.11.01:824][ 92]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2021.03.07-13.11.01:825][ 92]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2021.03.07-13.11.01:825][ 92]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2021.03.07-13.11.01:826][ 92]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2021.03.07-13.11.01:826][ 92]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2021.03.07-13.11.01:826][ 92]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2021.03.07-13.11.01:826][ 92]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2021.03.07-13.11.01:826][ 92]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2021.03.07-13.11.02:299][ 92]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2021.03.07-13.11.02:299][ 92]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2021.03.07-13.11.02:299][ 92]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2021.03.07-13.11.02:299][ 92]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2021.03.07-13.11.02:299][ 92]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2021.03.07-13.11.02:299][ 92]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2021.03.07-13.11.02:305][ 92]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2021.03.07-13.11.02:306][ 92]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2021.03.07-13.11.02:307][ 92]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2021.03.07-13.11.02:307][ 92]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2021.03.07-13.11.02:307][ 92]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2021.03.07-13.11.02:307][ 92]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2021.03.07-13.11.02:308][ 92]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2021.03.07-13.11.02:308][ 92]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2021.03.07-13.11.02:308][ 92]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2021.03.07-13.11.02:308][ 92]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2021.03.07-13.11.02:308][ 92]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2021.03.07-13.11.02:308][ 92]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2021.03.07-13.11.02:308][ 92]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2021.03.07-13.11.02:309][ 92]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2021.03.07-13.11.02:309][ 92]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2021.03.07-13.11.02:309][ 92]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2021.03.07-13.11.02:310][ 92]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2021.03.07-13.11.02:343][ 92]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2021.03.07-13.11.02:343][ 92]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2021.03.07-13.11.02:344][ 92]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2021.03.07-13.11.02:346][ 92]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2021.03.07-13.11.02:346][ 92]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2021.03.07-13.11.02:346][ 92]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2021.03.07-13.11.02:346][ 92]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2021.03.07-13.11.02:347][ 92]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2021.03.07-13.11.02:348][ 92]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2021.03.07-13.11.02:348][ 92]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2021.03.07-13.11.02:348][ 92]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2021.03.07-13.11.02:358][ 92]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2021.03.07-13.11.02:358][ 92]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2021.03.07-13.11.02:359][ 92]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2021.03.07-13.11.02:359][ 92]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2021.03.07-13.11.02:360][ 92]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2021.03.07-13.11.02:360][ 92]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2021.03.07-13.11.02:360][ 92]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2021.03.07-13.11.02:361][ 92]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2021.03.07-13.11.02:362][ 92]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2021.03.07-13.11.02:362][ 92]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2021.03.07-13.11.02:362][ 92]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2021.03.07-13.11.02:363][ 92]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2021.03.07-13.11.02:363][ 92]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2021.03.07-13.11.02:363][ 92]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2021.03.07-13.11.02:363][ 92]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2021.03.07-13.11.02:364][ 92]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2021.03.07-13.11.02:367][ 92]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2021.03.07-13.11.02:577][ 92]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2021.03.07-13.11.02:583][ 92]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2021.03.07-13.11.02:583][ 92]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2021.03.07-13.11.02:583][ 92]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2021.03.07-13.11.02:583][ 92]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2021.03.07-13.11.02:584][ 92]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2021.03.07-13.11.02:585][ 92]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2021.03.07-13.11.02:586][ 92]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2021.03.07-13.11.02:587][ 92]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2021.03.07-13.11.02:589][ 92]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2021.03.07-13.11.02:589][ 92]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2021.03.07-13.11.02:589][ 92]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2021.03.07-13.11.02:590][ 92]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2021.03.07-13.11.02:591][ 92]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2021.03.07-13.11.02:591][ 92]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2021.03.07-13.11.02:591][ 92]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2021.03.07-13.11.02:592][ 92]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2021.03.07-13.11.02:592][ 92]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2021.03.07-13.11.02:592][ 92]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2021.03.07-13.11.02:592][ 92]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2021.03.07-13.11.02:593][ 92]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2021.03.07-13.11.02:594][ 92]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2021.03.07-13.11.02:595][ 92]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2021.03.07-13.11.02:595][ 92]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2021.03.07-13.11.02:595][ 92]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2021.03.07-13.11.02:595][ 92]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2021.03.07-13.11.02:595][ 92]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2021.03.07-13.11.02:595][ 92]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2021.03.07-13.11.02:695][ 92]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2021.03.07-13.11.02:801][ 92]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2021.03.07-13.11.02:801][ 92]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2021.03.07-13.11.02:802][ 92]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2021.03.07-13.11.02:802][ 92]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2021.03.07-13.11.02:802][ 92]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2021.03.07-13.11.02:802][ 92]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2021.03.07-13.11.02:803][ 92]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2021.03.07-13.11.02:804][ 92]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2021.03.07-13.11.02:804][ 92]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2021.03.07-13.11.02:804][ 92]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2021.03.07-13.11.02:804][ 92]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2021.03.07-13.11.02:805][ 92]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2021.03.07-13.11.02:806][ 92]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2021.03.07-13.11.02:806][ 92]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2021.03.07-13.11.02:806][ 92]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2021.03.07-13.11.02:806][ 92]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2021.03.07-13.11.02:806][ 92]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2021.03.07-13.11.02:808][ 92]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2021.03.07-13.11.02:809][ 92]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2021.03.07-13.11.02:810][ 92]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2021.03.07-13.11.02:810][ 92]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2021.03.07-13.11.02:811][ 92]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2021.03.07-13.11.02:812][ 92]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2021.03.07-13.11.02:812][ 92]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2021.03.07-13.11.02:813][ 92]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2021.03.07-13.11.02:813][ 92]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2021.03.07-13.11.02:814][ 92]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2021.03.07-13.11.02:815][ 92]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2021.03.07-13.11.02:818][ 92]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2021.03.07-13.11.02:818][ 92]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2021.03.07-13.11.02:820][ 92]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2021.03.07-13.11.02:820][ 92]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2021.03.07-13.11.02:820][ 92]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module Core (186)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2021.03.07-13.11.02:821][ 92]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2021.03.07-13.11.02:822][ 92]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2021.03.07-13.11.02:823][ 92]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2021.03.07-13.11.02:823][ 92]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2021.03.07-13.11.02:823][ 92]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2021.03.07-13.11.02:823][ 92]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2021.03.07-13.11.02:856][ 92]LogDerivedDataCache: Shutdown
+[2021.03.07-13.11.02:857][ 92]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2021.03.07-13.11.02:857][ 92]LogXGEController: Cleaning working directory: C:/Users/timof/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.07-13.11.02:857][ 92]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2021.03.07-13.11.02:857][ 92]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2021.03.07-13.11.02:858][ 92]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2021.03.07-13.11.02:858][ 92]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2021.03.07-13.11.02:858][ 92]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2021.03.07-13.11.02:859][ 92]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2021.03.07-13.11.02:859][ 92]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2021.03.07-13.11.02:859][ 92]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2021.03.07-13.11.02:859][ 92]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2021.03.07-13.11.02:859][ 92]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2021.03.07-13.11.02:860][ 92]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2021.03.07-13.11.02:860][ 92]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2021.03.07-13.11.02:860][ 92]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2021.03.07-13.11.02:860][ 92]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2021.03.07-13.11.02:860][ 92]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2021.03.07-13.11.02:860][ 92]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2021.03.07-13.11.02:860][ 92]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2021.03.07-13.11.02:861][ 92]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2021.03.07-13.11.02:861][ 92]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2021.03.07-13.11.02:861][ 92]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2021.03.07-13.11.02:862][ 92]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2021.03.07-13.11.02:862][ 92]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2021.03.07-13.11.02:862][ 92]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2021.03.07-13.11.02:862][ 92]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2021.03.07-13.11.02:863][ 92]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2021.03.07-13.11.02:863][ 92]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2021.03.07-13.11.02:869][ 92]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2021.03.07-13.11.02:870][ 92]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2021.03.07-13.11.02:870][ 92]LogHMD: Freeing OpenVRDLLHandle.
+[2021.03.07-13.11.02:870][ 92]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2021.03.07-13.11.02:871][ 92]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2021.03.07-13.11.02:871][ 92]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2021.03.07-13.11.02:871][ 92]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2021.03.07-13.11.02:871][ 92]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2021.03.07-13.11.02:872][ 92]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2021.03.07-13.11.02:872][ 92]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2021.03.07-13.11.02:890][ 92]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2021.03.07-13.11.02:890][ 92]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.03.07-13.11.02:890][ 92]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B63227490-46DE-C859-04CC-21972C9D0746%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=0a35317e486ebe498dd495a73209f20a%7C99e7f3b2f2a34b5a987eb00501e5f7ab%7C0f556d94-6579-43ab-b4bc-432d6c9f1654&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2021.03.07-13.11.02:900][ 92]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2021.03.07-13.11.02:901][ 92]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2021.03.07-13.11.02:903][ 92]LogModuleManager: Shutting down and abandoning module Media (51)
+[2021.03.07-13.11.02:904][ 92]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2021.03.07-13.11.02:904][ 92]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2021.03.07-13.11.02:904][ 92]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2021.03.07-13.11.02:904][ 92]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2021.03.07-13.11.02:905][ 92]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.03.07-13.11.02:905][ 92]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.03.07-13.11.02:905][ 92]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.03.07-13.11.02:905][ 92]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.03.07-13.11.02:906][ 92]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.03.07-13.11.02:907][ 92]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.03.07-13.11.02:907][ 92]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.03.07-13.11.02:907][ 92]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.03.07-13.11.02:908][ 92]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.03.07-13.11.02:909][ 92]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.03.07-13.11.02:910][ 92]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.03.07-13.11.02:910][ 92]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.03.07-13.11.02:910][ 92]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.03.07-13.11.02:911][ 92]LogD3D11RHI: Shutdown
+[2021.03.07-13.11.02:912][ 92]LogD3D11RHI: CleanupD3DDevice
+[2021.03.07-13.11.02:913][ 92]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.03.07-13.11.02:913][ 92]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.03.07-13.11.02:914][ 92]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2021.03.07-13.11.02:915][ 92]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.03.07-13.11.02:925][ 92]LogExit: Exiting.
+[2021.03.07-13.11.02:939][ 92]Log file closed, 03/07/21 16:11:02
