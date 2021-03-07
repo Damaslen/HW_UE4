@@ -640,3 +640,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.07-12.51.39:788][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000435 seconds (found 0 objects)
 [2021.03.07-12.51.39:788][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000497 seconds (updated 0 objects)
 [2021.03.07-12.51.52:813][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.03.07-12.52.39:500][ 23]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={167DF499-41A5-A4B8-3334-A18217405D55}
