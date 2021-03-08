@@ -2558,3 +2558,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.08-14.53.06:181][717]SourceControl:  create mode 100644 Project/test/Content/HW_5_Blueprint/BP_fleshlighet.uasset
 [2021.03.08-14.53.06:181][717]SourceControl:  create mode 100644 Project/test/Content/HW_5_Blueprint/Level/HW_5.umap
 [2021.03.08-14.53.06:185][717]SourceControl: Commited [homework_3 692c090] HW_5.7_.
+[2021.03.08-14.56.59:646][890]SourceControl: fatal: D:/0EPIC/UE_4_f/UE_4.23/Engine/Content: 'D:/0EPIC/UE_4_f/UE_4.23/Engine/Content' is outside repository at 'C:/Users/timof/Documents/GitHub/HW_UE4'
+[2021.03.08-14.56.59:725][890]EditorErrors: Warning: No assets to check in!
+[2021.03.08-14.57.05:727][250]LogSlate: Window 'Message Log' being destroyed
+[2021.03.08-14.57.05:732][250]LogSlate: Window 'Message Log' being destroyed
+[2021.03.08-14.57.09:511][474]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.08-14.57.09:599][474]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2021.03.08-14.57.09:640][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.03.08-14.57.09:785][474]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/HW_56ED3A2C8425FBAD728F0789FCC51DC25.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_5_Blueprint/Level/HW_5.umap'
+[2021.03.08-14.57.10:024][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW_5_Blueprint/Level/HW_5_BuiltData" FILE="C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_5_Blueprint/Level/HW_5_BuiltData.uasset" SILENT=true
+[2021.03.08-14.57.10:047][474]LogSavePackage: Moving 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Saved/HW_5_BuiltDataFECDEBD442FCC49DF393D6B8CDC22FF8.tmp' to 'C:/Users/timof/Documents/GitHub/HW_UE4/Project/test/Content/HW_5_Blueprint/Level/HW_5_BuiltData.uasset'
+[2021.03.08-14.57.14:196][721]SourceControl: fatal: D:/0EPIC/UE_4_f/UE_4.23/Engine/Content: 'D:/0EPIC/UE_4_f/UE_4.23/Engine/Content' is outside repository at 'C:/Users/timof/Documents/GitHub/HW_UE4'
+[2021.03.08-14.57.25:923][721]LogSlate: Window 'Submit Files' being destroyed
+[2021.03.08-14.57.26:128][721]LogSourceControl: commit successful: [homework_5 272fb5b] HW_5
+[2021.03.08-14.57.26:174][721]SourceControl: [homework_5 272fb5b] HW_5
+[2021.03.08-14.57.26:174][721]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.03.08-14.57.26:174][721]SourceControl:  create mode 100644 Project/test/Content/HW_5_Blueprint/Level/HW_5.umap
+[2021.03.08-14.57.26:178][721]SourceControl: Commited [homework_5 272fb5b] HW_5.
